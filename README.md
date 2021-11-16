@@ -12,8 +12,8 @@
 </br>
 <h1>Minhas tecnologias de estudo</h1>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fell-Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fell-Pandas" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
+  <img align="center" alt="Fell-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Fell-Pandas"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> 
   <!-- SITE PRA PEGAR OS ICONS https://devicon.dev/-->
   <img align="right" alt="Fell-pic" height="150" style="border-radius:50px;" src="https://miro.medium.com/max/480/1*Bj1lk3h9FKTjTHIpMCVUjw.gif">
 </div>
