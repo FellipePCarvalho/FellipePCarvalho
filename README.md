@@ -11,8 +11,8 @@
 </br>
 <h1>Minhas tecnologias de estudo</h1>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fell-Python" height="100" style="border-radius:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Fell-Pandas" height="100" style="border-radius:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+  <img align="center" alt="Fell-Python" height="80" style="border-radius:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Fell-Pandas" height="80" style="border-radius:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
   <img align="center" alt="Fell-Mysql" height="100" style="border-radius:25px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
           
   <!-- SITE PRA PEGAR OS ICONS https://devicon.dev/-->
